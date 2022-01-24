@@ -103,6 +103,7 @@
 * [使用VS将cs文件生成DLL](www.u3d8.com/?p=1512)
 * [NKGMobaBasedOnET](https://gitee.com/NKG_admin/NKGMobaBasedOnET)
 * [苍狼王unity学院](https://blog.csdn.net/qq_39646949/article/details/86299006)
+* [Unity播放透明视频的几种方式](https://zeroultra.github.io/2020/01-28-UnityAlpahVideo/)
 
 
 
