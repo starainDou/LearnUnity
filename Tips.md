@@ -498,6 +498,16 @@ Application.persistentDataPath : /data/data/xxx.xxx.xxx/files
 Application.temporaryCachePath : /data/data/xxx.xxx.xxx/cache
 ```
 
+### iOS打包 Method ClearKind not found in Google.Protobuf.WellKnownTypes.Value
+
+```
+Asset目录建立 link.xml，内容如下
+
+<linker>
+	<assembly fullname="Google.Protobuf" preserve="all"/>
+</linker>
+```
+
 * [Unity3D 判断脚本是否继承了某个接口或者类](https://www.jianshu.com/p/17c648673c4b)
 * [100条Unity基础小贴士，从新手成为熟手](https://bbs.gameres.com/forum.php?mod=viewthread&tid=837368)
 * [Unity的RuntimeInitializeOnLoadMethod属性初探](https://www.cnblogs.com/meteoric_cry/p/7602122.html)
